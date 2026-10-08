@@ -1,0 +1,4 @@
+# Copy this file to db.properties and edit the values
+url=jdbc:mysql://localhost:3306/library_db?useSSL=false&serverTimezone=UTC
+user=root
+password=your_password
